@@ -40,19 +40,19 @@
 .read-the-docs {
   color: #888;
 }
-/* Container */
+
 .container {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f8f9fa;
+  background-color: #f8faf8;
   min-height: 100vh;
   font-family: Arial, sans-serif;
 }
 
-/* Header */
+
 .header {
-  background-color: #2E86AB;
+  background-color: #7d2eab;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -63,13 +63,13 @@
   margin: 0 0 10px 0;
 }
 
-/* Buttons */
+
 .button {
   padding: 10px 20px;
   border: none;
   border-radius: 25px;
   cursor: pointer;
-  color: #fff;
+  color: greenyellow;
   font-weight: bold;
   margin: 5px;
 }
@@ -83,9 +83,9 @@
   background-color: #E74C3C;
 }
 
-/* Entry */
+
 .entry {
-  background-color: #fff;
+  background-color: rgb(0, 255, 145);
   border-left: 4px solid #2E86AB;
   padding: 15px;
   margin-bottom: 15px;
@@ -103,9 +103,9 @@
   margin: 0 0 10px 0;
 }
 
-/* Form */
+
 .entry-form {
-  background-color: #fff;
+  background-color: pink;
   padding: 20px;
   border-radius: 8px;
   margin-bottom: 20px;
@@ -120,15 +120,14 @@
   border-radius: 5px;
 }
 .entry-form button {
-  background-color: #2E86AB;
-  color: #fff;
+  background-color: #ab6f2e;
+  color: #ffffff;
   border: none;
   padding: 10px 15px;
   border-radius: 8px;
   cursor: pointer;
 }
 
-/* Error & Loading */
 .error {
   color: #E74C3C;
   font-weight: bold;
